@@ -1,3 +1,4 @@
+
 import Head from "next/head";
 import Layout, { siteTitle } from "../components/layout";
 import utilStyles from "../styles/utils.module.css";
@@ -16,17 +17,15 @@ export async function getStaticProps() {
 
 export default function Home({ allPostsData }) {
   return (
-    <Layout home>
+    <Layout section>
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className={utilStyles.headingMd}>
-        <p>I'm Eric, a Christian and a computer science student currently studying at UC San Diego.</p>
-        <p>This site is the home for my hymns, thoughts, and more! 
-          It's still under construction, but hopefully I'll be able to flesh it out this summer.</p>
-      </section>
-     {/* < section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-         <h2 className={utilStyles.headingLg}>Blog</h2>
+      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+        <h2 className={utilStyles.headingLg}>Hymns & Songs</h2>
+        <p className={utilStyles.textNormal}>Here you'll find my hymn and song texts. I haven't written music for most of these, so 
+          feel free to add a melody to them.
+        </p>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
@@ -39,8 +38,8 @@ export default function Home({ allPostsData }) {
               </small>
             </li>
           ))}
-        </ul> 
-      </section >*/}
+        </ul>
+      </section>
     </Layout>
   );
 }

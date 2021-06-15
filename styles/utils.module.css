@@ -25,8 +25,21 @@
   line-height: 1.5;
 }
 
+.textNormal {
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
 .borderCircle {
   border-radius: 9999px;
+}
+
+.borderRounded {
+  border-radius: 20%;
+}
+
+.simpleShadow {
+  box-shadow: 2px 2px 5px 6px #ccc;
 }
 
 .colorInherit {
@@ -49,4 +62,8 @@
 
 .lightText {
   color: #666;
+}
+
+.italicText {
+  font-style:italic;
 }

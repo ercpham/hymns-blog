@@ -1,0 +1,14 @@
+.navbar {
+    width: 100%;
+    background-color: black;
+    color: white;
+    height: 3rem;
+    padding: .2rem;
+    display: flex;
+    align-items: center;
+}
+
+.navitem {
+    padding: .5rem;
+    color: white;
+}
