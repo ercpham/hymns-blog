@@ -20,7 +20,7 @@ Because our Lord was smitten
 
 We come to Him for filling  
 and hunger never more.  
-We never will be thirst  
+We never will be thirsty  
 The fountain ever pours
 
 Remember our good Savior  
