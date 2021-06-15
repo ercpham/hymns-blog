@@ -8,32 +8,42 @@ tags: 'advocate, judgement, Jesus'
 *My little children, I am writing these things to you so that you may not sin. But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous.*  
 **1 John 2:1 (ESV)**
 
-Jesus, sanctify Your bride  
-Wash Your church, for whom You died.  
-Cleanse her from impurity  
-Pure and spotless she will be
+See how rulers tremble greatly  
+at the sight of Jesus, Judge.  
+Woe to them! the perfect standard  
+of the Law will never budge.
 
-You have given her Your word  
-You have called, and she has heard  
-She has waited long for You,  
-Jesus, show Your promise true
+Terrified as they behold the  
+glory of the risen Lord,  
+they are sent into the furnace  
+where the fire ever roars.
 
-Clothe her with Your righteousness  
-Sins, to You, she will confess  
-Christ be faithful to forgive  
-She’ll, with You, forever live
+See the hearts of sinners sinking  
+when they see that great white throne.  
+They are speechless as they realize  
+By the judge they are not known
 
-How she loves the thought of You!  
-She, by faith, keeps You in view.  
-Set her mind on rest above.  
-Tell her of Your wondrous love!
+Oh, how sad, their vain defenses.  
+Even sadder is their fate!  
+There will be a river flowing,  
+full of tears, from heaven’s gate.
 
-Oh, what love You’ve shown to her!  
-Blood has paid for debts incurred.  
-You are the most faithful groom.  
-She will not stay in the tomb.
+How is it the saint rejoices  
+at the sight of that same One?  
+Why are they not filled with terror  
+when they see the Holy Son?
 
-She will rise to see Your face.  
-Oh, the glory of that place!  
-Heaven’s splendor is not gold.  
-But the King, the Son of old
+Joyfully, the saints are bowing  
+at the feet of their first love.  
+Here’s the fruit of their believing.  
+No more need to look above.
+
+See this wondrous truth unfolding:  
+He is Advocate and Judge!  
+He who judges is the one who  
+for His people shed His blood
+
+Praise the Lord, the intercessor!  
+He has brought His brethren home.  
+They will reign with Savior Jesus.  
+They are clean, and by Him known.
