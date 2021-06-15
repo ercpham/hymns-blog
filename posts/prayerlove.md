@@ -5,7 +5,7 @@ verse: '1 John 4:10'
 tags: 'love'
 ---
 
-*In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins. 11 Beloved, if God so loved us, we also ought to love one another.*  
+*In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins. Beloved, if God so loved us, we also ought to love one another.*  
 **1 John 4:10 (ESV)**
 
 I do not get what I deserve.  
