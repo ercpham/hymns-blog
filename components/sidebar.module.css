@@ -1,0 +1,57 @@
+.sidebar {
+  height: 100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #111; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+  white-space: nowrap;
+  padding-top: 1rem;
+  visibility: hidden;
+}
+
+.sidebar a {
+  padding: .5rem;
+  padding-left: 2rem;
+  color: white;
+  display: block;
+  transition: 0.3s;
+}
+
+.closebtn {
+  position: absolute;
+  top: 0; 
+  right: .2rem;
+  font-size: 1.5rem;
+  margin-left: 50px;
+  background-color:transparent;
+  color: white;
+  border: none;
+  outline: none;
+}
+
+.burger {
+    background-image: url("/images/burger.png");
+    background-size: cover;
+    background-color: transparent;
+    height: 2rem;
+    width: 2rem;
+    border: none;
+    visibility: hidden;
+    margin: 1rem;
+}
+
+@media only screen and (max-width: 760px) {
+   .burger {
+       visibility: visible;
+   } 
+   .sidebar {
+       visibility: visible;
+   }
+   .siderbar a {
+       visibility: visible;
+   }
+}

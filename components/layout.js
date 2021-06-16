@@ -2,6 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import styles from "./layout.module.css";
 import NavBar from "./navbar";
+import SideBar from "./sidebar"
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
@@ -15,7 +16,7 @@ export default function Layout({ children, home, hymns, section }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="Eric Pham's blog for hymns, thoughts, and more!"
         />
         <meta
           property="og:image"
@@ -27,6 +28,7 @@ export default function Layout({ children, home, hymns, section }) {
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
       <NavBar />
+      <SideBar />
       <div className={styles.container}>
         <header className={styles.header}>
           {home ? (

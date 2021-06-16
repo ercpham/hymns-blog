@@ -12,3 +12,14 @@
     padding: .5rem;
     color: white;
 }
+
+@media only screen and (max-width: 760px) {
+    .navbar {
+        visibility: hidden;
+        display: none;
+    } 
+    .navitem {
+        visibility: hidden;
+        display: none;
+    }
+ }
