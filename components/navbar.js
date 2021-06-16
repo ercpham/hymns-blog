@@ -1,17 +1,16 @@
-import styles from "./navbar.module.css";
+import styles from "./styles/navbar.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-export default function NavBar() {
+export default function NavBar({ tabs }) {
   return (
     <div>
       <header className={styles.navbar}>
-        <Link href="/">
-          <a className={styles.navitem}>Home</a>
-        </Link>
-        <Link href="/hymns">
-          <a className={styles.navitem}>Hymns & Songs</a>
-        </Link>
+        {tabs.map(({ ref, nm }) => (
+              <Link href={ref}>
+                <a className={styles.navitem}>{nm}</a>
+              </Link>
+          ))}
       </header>
     </div>
   );

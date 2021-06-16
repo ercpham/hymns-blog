@@ -1,15 +1,21 @@
 import Head from "next/head";
 import Image from "next/image";
-import styles from "./layout.module.css";
+import styles from "./styles/layout.module.css";
 import NavBar from "./navbar";
-import SideBar from "./sidebar"
+import SideBar from "./sidebar";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
+import { getAllThoughtIds } from "../lib/thoughts";
 
 const name = "Eric Pham";
-export const siteTitle = "Eric's Blog";
 
-export default function Layout({ children, home, hymns, section }) {
+export const siteTitle = "Eric's Blog";
+const refNames = ["/", "/hymns", "/thoughts"];
+const nms = ["Home", "Hymns & Songs", "Thoughts"];
+const tabNames = refNames.map((ref, index) => ({ ref: ref, nm: nms[index] }));
+
+export default function Layout({ children, home, hymns, section, thoughts }) {
+  // const tabNames = [{ref: "/", nm: "Home"}, {ref:"/hymns", nm: "Hymns & Songs"}, {ref: "/", nm: "Home Again"}];
   return (
     <div>
       <Head>
@@ -27,8 +33,8 @@ export default function Layout({ children, home, hymns, section }) {
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
-      <NavBar />
-      <SideBar />
+      <NavBar tabs={tabNames} />
+      <SideBar tabs={tabNames} />
       <div className={styles.container}>
         <header className={styles.header}>
           {home ? (
@@ -43,9 +49,9 @@ export default function Layout({ children, home, hymns, section }) {
               />
               <h1 className={utilStyles.heading1Xl}>{name}</h1>
             </>
-          ) : 
-           <></> 
-          }
+          ) : (
+            <></>
+          )}
         </header>
         <main>{children}</main>
         {hymns && (
@@ -59,6 +65,13 @@ export default function Layout({ children, home, hymns, section }) {
           <div className={styles.backToHome}>
             <Link href="/">
               <a>← Back to home</a>
+            </Link>
+          </div>
+        )}
+        {thoughts && (
+          <div className={styles.backToHome}>
+            <Link href="/">
+              <a>← Back to thoughts</a>
             </Link>
           </div>
         )}

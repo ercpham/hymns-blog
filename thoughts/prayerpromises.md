@@ -1,0 +1,94 @@
+---
+title: 'Reflections on the Promises of Prayer'
+date: '2021-06-11'
+---
+
+For context, I'm going over *A Call to Prayer* by J.C. Ryle. These are my reflections on the verses that he cites to speak about the promises associated with prayer. All the quotes below are from him.
+
+---
+
+&quot;Prayer is an act in religion to which there is great encouragement&quot;
+
+- Jesus Christ is the mediator between man and the Father. He is the Advocate and Intercessor
+- The Holy Spirit assists us in our speaking to God
+
+&quot;There are exceeding great and previous promises to those who pray&quot;
+
+Matthew 7:7-11
+
+Context: In the Sermon on the Mount, after the passage about judging not.
+
+In verse 7, Jesus gives three amazing statements, each with a imperative and a result.
+
+1. Ask, and it will be given to you
+2. Seek, and you will find
+3. Knock, and it will be opened to you
+
+Because I grew up with a background in prosperity gospel, I saw these verses used all the time to encourage prayers for worldly prosperity. In reaction against it, my gut reaction is to put all kinds of conditions on the statements. Perhaps these conditions are well-founded, and I will discuss some of the Bible&#39;s conditions for receiving what is asked for shortly.
+
+However, if the reaction to a passage like this is to completely interpret away the power of Jesus&#39;s promise, something is wrong with the way that we are interpreting this Scripture. In our reaction against the worldly prosperity gospel, some people essentially come to the conclusion that prayer is an exercise that primarily aligns our will with God&#39;s will. It sounds holy, and there is some truth in the idea that God uses prayer to sanctify our will, but that is not the full, scriptural picture of prayer.
+
+How do we approach the throne of grace? (Heb 4:16). With confidence and boldness! And what is the purpose of approaching the throne of grace? &quot;That we may **receive** mercy and find grace to help in a time of need.&quot; Yes, we see that prayer involves adoration of God, and a desire for His will to be done above all else and for him to receive glory above all else in the Lord&#39;s Prayer. And is the Lord&#39;s Prayer not the same prayer that includes the statement &quot;give us this day our daily bread?&quot;
+
+We pray out of need. We pray because there is something lacking. Certainly there is a lack of strength in ourselves. Certainly there are needs in this world that are not met. Certainly there are many things that we wish to see changed around us. Are we to forgo prayer because God is sovereign anyways? Absolutely not! Listen to the commands of Jesus: Ask, seek, knock. Never is there a command to &quot;let go and let God.&quot;
+
+Behold the certainty with which the promises are given. It **will** be given to you. You **will** find. It **will** be opened to you. Oh, that we would only have faith to believe what Jesus has said. Jesus could have just made the first statement. He could have just said, &quot;Ask, and it will be given to you,&quot; and that promise would have been certain enough. But our Lord reiterates the idea not only twice, but three times. How much more certain shall the Lord answer our requests? Our Lord has given us every reason to pray, and yet we, in our weakness of faith, refuse to pray, or pray with doubting. Even as I write these words, I feel that my faith is so weak. May God increase our faith. We know what faith the size of a mustard seed can do (Luke 17:5-6). _There is much to be said about faith that I need to study much more about._
+
+Jesus does not stop here. He gives an example to demonstrate this truth even further. He does not need to elaborate. He has already given such a great promise. Yet, in His wisdom and love He does so anyways. He directs his dialogue to the fathers in the audience. He is arguing from the lesser to the greater. He is very logical. Human fathers know how to give good gifts to their children. If their child asks for bread, they will not give a stone. If their child asks for fish, they will not give a snake.
+
+This seems like a ridiculous question, but why doesn&#39;t the father give the stone or the snake? Obviously, the parent cares for the child. The parent wants the child to be nurtured. The parent wants the child to be happy. These things can be done by granting the child&#39;s request. And this is done by the &quot;evil,&quot; as Jesus says. No one is good but God alone (Mark 10:18). Even the evil know how to care for their children. Even the evil know how to show love for their friends. Then why would we ever think that God, who is good would refuse any good gift from His children? The gifts of the evil father and the gifts of our heavenly Father are incomparable. &quot; **How much more** will your Father who is in heaven give what is good to those who **ask** him!&quot; The generosity of God is rooted in His eternal character. There is no need that cannot be met by our prayer. Furthermore, there is no need that He is unwilling to meet. Why are we commanded to cast our anxieties on God? &quot;Because He cares for you&quot; (1 Peter 5:7). The great love that the Creator has for His creatures is simply amazing. Indeed &quot;what is man that You take thought of him? And the son of man that You care for him?&quot; (Psalm 8:5). Such great love must bring us to our knees in gratitude and worship.
+
+Take a moment to look at the nature of the child&#39;s request. The child asks for bread and fish. These are things that the child needs. No one would judge a child selfish for desiring to eat. The child needs food, and the child is dependent upon his parent for food. It is a very deep thing that we are children of God. God has brought us into His family. He has given to us an inheritance. He has given to us His Spirit. He cares for us as a Father. And even furthermore, as His children, we are dependent upon Him. The child is helpless to provide food for himself. Just as the child is helpless to provide food for himself, there are many things that we need that we cannot provide for ourselves. We may think that we work to put food on our table, but who is the One who orchestrates every event in the universe that we may even have the opportunity to work and have food and eat? Is it not the Father? Furthermore, is our need not much more than physical? Certainly some may be deceived into thinking that they are the master over the food that enters into them. No one claims the ability to know the future. God does much more than &quot;know&quot; the future. He is Sovereign over all, and He is the One that gives life to all. The unbeliever lives by common grace. The child of God recognizes that he is dependent, and so he asks because he has a great need.
+
+We see that this example is given as an encouragement to ask. These promises are not given to those who sit around. These promises are not given to those who wish. These promises are given to those who **ask**. Certainly God does not have to wait for a request to work. The Almighty does not have chains that are only released by prayer. Yet He has willed and commanded that His people speak to Him. This is not a new thing. It is so evident in what our Lord calls the greatest commandment in all of the Scripture. &quot;You shall love the Lord with all your heart, and with all your soul, and with all your soul, and with all your mind.&quot; It is absurd to think of a love with all our being that does not include speaking to the object of our love. Let us come before God in prayer often and bring every need and burden to Him.
+
+Matthew 21:18-22
+
+Context: After Jesus clears out the temple and heals the blind and the lame, receiving praise as the Son of David (A Messianic Title)
+
+This is an interesting passage that I don&#39;t quite fully understand. I would need to spend more time studying why Jesus reacts to the fig tree in the way He does and why He curses it. Obviously, when the disciples see this, they are amazed and ask how Jesus did such a thing.
+
+Obviously we know that Jesus is the Word made flesh, the Incarnate God. However, interestingly, he does not attribute this miracle to His unique deity. He says that if you have faith and do not doubt, the disciples would be able to do this, and even greater things. Even if they say to the mountain to be cast into the sea, it would be done. This is said to highlight the importance of faith in prayer. Once again, we see such a bold promise attached to prayer in the same book. It really isn&#39;t too different than the promise given in Matthew 7, but it describes how we ought to pray: &quot;believing.&quot; Jesus simply makes the statement: &quot;All things you ask in prayer, believing, you will receive.&quot;
+
+I don&#39;t think that Jesus was mistaken in giving his initial promises about prayer. He states it as fact here. The things that are asked for in prayer will be given. The question is then, this: Do we believe? It is a sad thing that in moments when some are hurting, people respond &quot;You don&#39;t have enough faith.&quot; Surely, such a statement is unloving and unhelpful in times of suffering which are just as certain as blessing in the Christian life. Still, we cannot deny that Jesus presents a simple and powerful statement. We shall receive the things we ask for in faith.
+
+With this as our foundation, how do we respond when we do not receive the things we ask for? Surely God has not failed. Here we come to a discussion about the conditions of answers to prayer. James 4:2-3 first reiterates the words of Jesus in the negative form when he says that &quot;you do not have because you do not ask.&quot; Interestingly, in the inspiration of the Holy Spirit, he adds: &quot;You ask and do not receive, because you ask with wrong motives, so that you may spend it on your pleasures.&quot; We clearly see that when there are wrong motives, God does not give. We see that a desire for our own pleasure is a wrong motive for prayer. What should be our motive in prayer? Has Jesus not already given the answer? &quot;Hallowed be Your name. Your will be done, Your kingdom come, on earth as it is in heaven.&quot; We desire to see God&#39;s will be done. We desire to see God glorified. This is the proper motivation. The response of Shadrach, Meshach, and Abed-nego to Nebuchadnezzar demonstrates the balance between boldness in our requests, yet a zeal for and submission to the glory of God. &quot;If it be so, our God whom we serve **is able** to deliver us from the furnace of blazing fire; and **He will** deliver us out of your hand, O king. **But even if He does not** , let it be known to you, O king, that we are not going to serve your gods or worship the golden image that you have set up&quot; (Daniel 3:17-18). Their faith in God is not dependent on whether or not God saves them. Yet, with boldness, they declare that God will save them.
+
+John 14:12-14
+
+Context: Philip says to Jesus: show us the Father and it is enough for us. Jesus&#39;s response is so powerful and it reveals so much about His deity and His work. It also reveals so much about the importance of knowing Jesus. Jesus says this, &quot;Have I been so long with you, and yet you have not come to **know Me** , Philip. He who has seen me has seen the Father.&quot;
+
+Here, we see the importance of believing in Jesus Christ, the Son of God. Knowing Jesus is the same as knowing God because He is in the Father, and the Father is in Him. It is the Son&#39;s unity with the Father that is the motivation for this particular promise regarding prayer. Jesus makes such a great statement: &quot;He who believes in Me, the works that I do, he will do also; and greater works than these he will do&quot; Not only does Jesus say that the one who believes in HIm will do the same works as Jesus, He even declare that He will do greater works. Why, why can Jesus say such a thing? Is it because we are powerful? Not at all. Read these words: &quot;because I go to the Father. Whatever you ask in my name, that will I do, so that the Father may be glorified in the Son.&quot;
+
+Why will believers in Christ be able to do the works of Christ and more? It is because Jesus goes to the Father. Why is this the reason given? This reveals much about Christ as mediator. Christ is our great high priest. He is the only mediator between God and man. It is through Him that we are able to have access to God. He is our Advocate. Note that the things that are asked to the Father in the name of the Son are done by the Son. Those who believe in the Son do not do the works of God because they are powerful in themselves. No, all the great power and the great works demonstrated by those who believe in the Son are given by God. And again, what is the purpose of such answers to the prayers of believers? Why does Jesus do the things that are asked in His name? &quot;So that the Father may be glorified in the Son.&quot; God answers prayers to the praise of His glory. The certainty with which God is glorified by what He has ordained is the certainty with which we shall receive what we ask from God.
+
+Luke 11:5-13
+
+Context: Jesus tells this story after Luke account of the Lord&#39;s prayer. In context, this parable is about prayer.
+
+Much of verses 9-13 are similar to Jesus&#39;s words in Matthew 7. However, verses 5-9 give some background as to why we should ask, seek, and knock. Jesus gives the parable of a man who goes to his friend to ask for some bread. Initially, the friend refuses because it would be inconvenient. However, even though he will not get up and get bread because he is his friend, he gets the bread because of the man&#39;s persistence.
+
+Here, we see the command to ask, seek, and knock is one that includes the idea of persistence behind it. Keep asking, keep seeking, keep knocking. We will see that persistent prayer is commended. Keep in mind, however, that in Matthew 6, Jesus commands the people to avoid vain repetition because God knows what we need before we ask. Now, bringing these two things is very interesting. God does not want us to use vain repetition in our prayers. Yet at the same time, he commends persistence in prayers. We are to knock until the door is opened. I believe the key to understanding this seeming paradox is to understand that we are not to put trust in the form of prayer. Saying words into the air does not have value in itself. So repeating magic words over and over will not earn someone reward. Instead, our persistence must be rooted in the character of God, rather than in the power of prayer itself.
+
+Prayer is, indeed, powerful. However, this power does not come from the person who prays. It comes from the God who is prayed to. We persist because God has given great promises. Ask and you will receive. Seek and you will find. Knock and it will be opened to you. In the Old Testament prayers, we see the people of God continually appeal to the character and promises of God. Why do they do this? They do this because we know that God never lies, and that He is unchanging. If He has made a promise, then He will keep it. That is their hope and encouragement to continue to call upon the Sovereign God.
+
+Luke 18:1-8
+
+Context: Jesus finishes talking about the day of judgment when Jesus will return after his suffering, death, resurrection, and ascension. In light of this, Jesus then tells them a parable about prayer.
+
+In this chapter, Luke directly lays out the purpose of the parable. Luke&#39;s gospel contains so much about prayer in general. Here is the purpose of the parable: &quot;They ought always to pray and not lose heart.&quot; How often are we to pray? **Always**. There is so many promises attached to prayer. If we only had faith in the words of Christ, we truly would apply those words in the way that Luke says. We would pray always.
+
+It is so interesting that Luke notes that another purpose of this parable is that we would not lose heart. Why does he make note of this? It must be because he knows that it is so easy to lose heart. We will pray and pray and pray and there will be no answer. Has the Lord forsaken? Has the Lord forgotten? Surely these questions are not uncommon among the saints. Read the words of Asaph, inspired by the Holy Spirit: &quot;Will the Lord reject forever? And will He never be favorable again? Has His lovingkindness ceased forever? Has God forgotten to be gracious, Or has He in anger withdrawn His compassion? Then I said, &#39;It is my grief, that the right hand of the Most High has changed&#39;&quot; (Psalm 77:7-10). This is the cry of someone who feels as though God is not present. And yet, what does the next verse say? &quot;I shall remember the deeds of Yahweh; Surely I will remember Your wonders of old.&quot; Though it looks like God has forgotten and forsaken, Asaph remembers the deeds of Yahweh. He is faithful. He has demonstrated that time and time again. He does not change.
+
+So, our Lord gives the parable of the widow who goes to the judge who did not fear God for legal protection. For a while this evil judge was not willing, but because this widow bothered him so much, he granted her legal protection. Otherwise, by continually coming she will continue to wear him out.
+
+There are so many interesting aspects to this parable. Again this is the argument from the less to the greater. If the unrighteous judge is willing to grant the widow&#39;s request, then surely the God who cares for His people shall grant the request of those who call out to Him. Surely, just as the unrighteous judge could not ignore the widow&#39;s barrage of requests, so God shall not ignore the persistent prayers of the saints. The judge will grant the request because he is annoyed. God will grant the requests of the saints because He is a just God who cares for His people. Understanding that God is good and just and caring, it is then, ridiculous to think that God will not bring justice for His elect who cry to Him day and night.
+
+He will do it quickly, and He will not delay. This is another interesting aspect of Jesus&#39;s commentary on the parable. God will not delay long over them, and He will bring about justice for them quickly. He does not say some time far off in the future. He says it will happen soon. So, we must pray understanding that help is coming soon. We do not pray with disbelief. We pray with anticipation and faith and persistence. We appeal to God&#39;s justice and love and grace, and we remember His promises and faithfulness in times when we are tempted to lose heart.
+
+In summary,
+
+1. Pray always (Matthew 7:7-11)
+2. Pray with faith (Matthew 21:18-22)
+3. Pray to the glory of God (John 14:12-14)
+4. Pray with persistence (Luke 11:5-13, Luke 18:1-8)

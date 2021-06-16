@@ -1,21 +1,22 @@
-import styles from "./sidebar.module.css";
+import styles from "./styles/sidebar.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 import { useState } from "react";
 
-export default function SideBar() {
+export default function SideBar({ tabs }) {
   const [barWidth, setBarWidth] = useState(0);
   return (
     <div>
       <button className={styles.burger} onClick={openNav}></button>
-      <div className={styles.sidebar} style={{width: `${barWidth}rem`}}>
-        <button className={styles.closebtn} onClick={closeNav}>x</button>
-        <Link href="/">
-          <a className={styles.navitem}>Home</a>
-        </Link>
-        <Link href="/hymns">
-          <a className={styles.navitem}>Hymns & Songs</a>
-        </Link>
+      <div className={styles.sidebar} style={{ width: `${barWidth}rem` }}>
+        <button className={styles.closebtn} onClick={closeNav}>
+          x
+        </button>
+          {tabs.map(({ ref, nm }) => (
+              <Link href={ref}>
+                <a className={styles.navitem}>{nm}</a>
+              </Link>
+          ))}
       </div>
     </div>
   );
